@@ -1,4 +1,4 @@
-# LittleLives Appointments
+# Appointments
 ## Description
 - A little rest API in NestJS to create, view, and schedule appointments
 
